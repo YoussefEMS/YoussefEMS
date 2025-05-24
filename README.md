@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Youssef 👋
 
-<!--
-**YoussefEMS/YoussefEMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student/developer passionate about **AI**, **Machine Learning**, and **Competitive Programming**  
+💻 I code mainly in **Python**, **C++**, and **Scala**  
+🚀 Currently working on:  
+- 🎬 A rule-based **movie chatbot** with trivia (Scala + Python)  
+- 🌍 **Global air quality analysis** using statistical and visual insights
 
-Here are some ideas to get you started:
+📫 How to reach me:  
+[LinkedIn](https://www.linkedin.com/) | [Email](mailto:you@example.com) | [Portfolio](https://your-portfolio.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tools & Tech I Use
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
+![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
