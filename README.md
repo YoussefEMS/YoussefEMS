@@ -17,7 +17,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
 ---
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefEMS)](https://github.com/anuraghazra/github-readme-stats)
 ### 📊 GitHub Stats
 
 ![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoussefEMS&show_icons=true&theme=tokyonight)
