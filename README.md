@@ -7,7 +7,7 @@
 - 🌍 **Global air quality analysis** using statistical and visual insights
 
 📫 How to reach me:  
-[LinkedIn](https://www.linkedin.com/) | [Email](mailto:you@example.com) | [Portfolio](https://your-portfolio.com)
+[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/youssef-ihab-6b878228b/)) | [Email](yoyo.bob1972@gmail.com) 
 
 ---
 
@@ -23,4 +23,4 @@
 
 ### 📊 GitHub Stats
 
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoussefEMS&show_icons=true&theme=tokyonight)
