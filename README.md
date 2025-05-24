@@ -2,12 +2,9 @@
 
 🎓 I'm a student/developer passionate about **AI**, **Machine Learning**, and **Competitive Programming**  
 💻 I code mainly in **Python**, **C++**, and **Scala**  
-🚀 Currently working on:  
-- 🎬 A rule-based **movie chatbot** with trivia (Scala + Python)  
-- 🌍 **Global air quality analysis** using statistical and visual insights
 
 📫 How to reach me:  
-[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/youssef-ihab-6b878228b/)) | [Email](yoyo.bob1972@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/youssef-ihab-6b878228b/) | [Email](yoyo.bob1972@gmail.com) 
 
 ---
 
