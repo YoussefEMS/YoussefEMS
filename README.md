@@ -1,6 +1,6 @@
 # Youssef Ihab
 
-I build practical software systems across **AI/ML engineering**, **data engineering**, **analytics**, **backend APIs**, and **mobile applications**. My projects focus on turning data into usable products: RAG systems, recommendation pipelines, BI dashboards, nutrition tools, banking demos, and analytics notebooks.
+I build practical software systems across **AI/ML engineering**, **data engineering**, **analytics**, **backend APIs**, and **mobile applications**. My projects focus on turning data into usable products: RAG systems, recommendation pipelines, BI dashboards, nutrition tools, banking systems, and analytics notebooks.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef%20Ihab-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-ihab-6b878228b/)
 [![Email](https://img.shields.io/badge/Email-yoyo.bob1972%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yoyo.bob1972@gmail.com)
