@@ -29,8 +29,6 @@ I build practical software systems across **AI/ML engineering**, **data engineer
 | [Product Performance Analytics](https://github.com/YoussefEMS/ProductPerformanceAnalytics) | Microsoft BI project using AdventureWorks data: dimensional warehouse, ETL packages, SSAS multidimensional cube, MDX analysis, and Power BI dashboard. | SQL Server, T-SQL, SSIS, SSAS, MDX, Power BI |
 | [MovieMate](https://github.com/YoussefEMS/MovieMate) | Movie and TV recommendation chatbot with trivia, TMDb-based CSV data, natural-language-style query handling, Streamlit UI, and analytics dashboard. | Scala 3, sbt, Play JSON, scala-csv, Python, Streamlit, pandas, Plotly |
 | [Air Quality Study](https://github.com/YoussefEMS/AirQualityStudy) | Statistical study of AQI, GHG emissions, forest cover, population density, and continent-level differences across 110 countries. | Python, pandas, Plotly, SciPy, statsmodels, Jupyter |
-| [Bank Management System for DB](https://github.com/YoussefEMS/BankManagementSystemforDB) | Streamlit banking demo with authentication, balances, transfers, loans, overdraft events, reports, SQL Server schema, and layered BCE-style architecture. | Python, Streamlit, SQL Server, T-SQL, pyodbc |
-
 ---
 
 ## Technology stack
@@ -65,13 +63,6 @@ I build practical software systems across **AI/ML engineering**, **data engineer
 
 ---
 
-## GitHub stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefEMS&layout=compact&hide_border=true)
-
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoussefEMS&show_icons=true&hide_border=true)
-
----
 
 ## Current focus
 
